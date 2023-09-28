@@ -1,0 +1,19 @@
+.mult1{/*
+    border-width: 7px;
+    border-style: solid;
+    border-color:  red;
+    */
+    background: orange;
+    padding-left: 50%;
+    color: #fff;
+    
+}
+
+.mult2{
+    border:6px solid red;
+    border-radius: 86px;
+}
+
+.mult3{
+    border-bottom: 11px solid blue;
+}

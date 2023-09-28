@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background: #eeeff0
+}
+
+.numer1 {
+    color: #a0d;
+}
+
+.numer2{
+    color: #ff0000;
+}
+
+.numer3{
+    color: rgb(120, 7, 80)
+}
+
+.numer4{
+    color: rgba(40,0, 160, 0.4)
+}
+
+.hype{
+    background: #f200f2;
+}
+

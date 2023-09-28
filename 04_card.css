@@ -1,0 +1,40 @@
+a {
+    color: green;
+    margin: 10px 20px;
+    text-decoration: none;
+    transition: all .9s;
+    
+}
+
+a:hover{
+ color:red;
+ font-size: 4rem;
+}
+
+a:visited{
+    color: purple;
+}
+.btn{
+    margin-left: 50px;
+    background: purple;
+    border: none;
+    transition: all .9s;
+    cursor: pointer;
+    border-radius: 40px;
+    font-family: inherit;
+}
+.btn:hover{
+    font-size: 4rem;
+    opacity: .5;
+
+}
+
+.css:hover{
+    background: red;
+}
+
+.html:hover{
+    background: green;
+}
+
+
