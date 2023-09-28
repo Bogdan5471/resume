@@ -1,0 +1,94 @@
+.btn{
+    background: rgb(109, 231, 231);
+    border: 6px solid red;
+   
+}
+.info{
+    margin-left: 7px;
+}
+.ntm{
+    border: 7px solid black;
+    padding-left: 12px;
+    background: rgb(236, 187, 243);
+    color: #fff;
+    
+    
+}
+
+.dtv{
+    border: 8px solid purple;
+    border-top: 30px;
+    padding-left: 11px;
+    color: greenyellow;
+}
+
+.table{
+    border: 10px solid black;
+    border-radius: 30%;
+    padding-left: 40%;
+}
+
+.btn{
+    border: none;
+    
+    /*border-radius: 60px;*/
+}
+
+.btn:hover{
+    opacity: .7;
+    
+}
+
+a {
+    color: fff;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:active{
+    color: blue;
+}
+
+a:visited{
+    color: red;
+}
+
+.list{
+    padding: 5px 20px;
+
+}
+
+.list li{
+    margin-bottom: 11px;
+}
+
+.md{
+    width: 100%;
+}
+
+.md td{
+    padding-bottom: 13px;
+}
+
+.md td:nth-child(2),
+.md td:nth-child(3){
+    color: #e07c18;
+}
+
+.photo{
+    display: block;
+    margin: 20px auto;
+    width: 200px;
+
+}
+
+.h1{
+    margin: 10px auto;
+    padding: 10px auto;
+}
+
+    
+
